@@ -1,0 +1,14 @@
+{
+    "name": "Mercado do seu zé",
+      "email": "contato@imperatriz.com",
+      "whatsapp": "968518945",
+      "latitude": -46.74744454,
+      "longitude": -35.09653421,
+      "city": "São Paulo",
+      "uf": "SP",
+      "items": [
+          1,
+          2,
+          6
+      ]
+  }
